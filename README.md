@@ -28,13 +28,6 @@ Access the live preview [following this link.](https://cw-omnifood.netlify.app)
 
 ![Preview Image](/img/preview.png)
 
-<!-- ![Hero Section](/img/screenshots/screenshot-01.png)
-![Hero Section](/img/screenshots/screenshot-02.png)
-![Hero Section](/img/screenshots/screenshot-03.png)
-![Hero Section](/img/screenshots/screenshot-04.png)
-![Hero Section](/img/screenshots/screenshot-05.png)
-![Hero Section](/img/screenshots/screenshot-06.png) -->
-
 ## Credits
 
 - Coded from the ground up by Carlos Wunsche.
