@@ -5,7 +5,9 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/website?up_message=online&amp;url=https%3A%2F%2Fcw-omnifood.netlify.app" alt="Website">
+  <img src="https://img.shields.io/website?up_message=online&amp;url=https%3A%2F%2Fcw-omnifood.netlify.app" alt="Website status">
+    <img src="https://img.shields.io/github/repo-size/carloswunsche/omnifood" alt="Repo size">
+    <img src="https://img.shields.io/github/languages/top/carloswunsche/omnifood" alt="Prominent language">
 </div>
 
 ---
