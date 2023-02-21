@@ -6,7 +6,9 @@
   </a>
 </div>
 
-![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fcw-omnifood.netlify.app)
+<div align="center">
+  <img src="https://img.shields.io/website?up_message=online&amp;url=https%3A%2F%2Fcw-omnifood.netlify.app" alt="Website">
+</div>
 
 (What is?) Foobar is a Python library for dealing with word pluralization.
 
