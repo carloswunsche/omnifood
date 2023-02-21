@@ -1,5 +1,4 @@
 <div align="center">
-  <h1 style="display:none">Omnifood</h1>
   <a href="https://cw-omnifood.netlify.app">
     <img width="50%" src="img/omnifood-logo.png" alt="Omnifood Logo by Jonas Schmedtmann" title="Omnifood Logo by Jonas Schmedtmann">
   </a>
