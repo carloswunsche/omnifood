@@ -1,14 +1,15 @@
-# Omnifood
-
 <div align="center">
+  <h1 style="display:none">Omnifood</h1>
   <a href="https://cw-omnifood.netlify.app">
     <img width="50%" src="img/omnifood-logo.png" alt="Omnifood Logo by Jonas Schmedtmann" title="Omnifood Logo by Jonas Schmedtmann">
   </a>
 </div>
-
+<br/>
 <div align="center">
   <img src="https://img.shields.io/website?up_message=online&amp;url=https%3A%2F%2Fcw-omnifood.netlify.app" alt="Website">
 </div>
+
+---
 
 (What is?) Foobar is a Python library for dealing with word pluralization.
 
