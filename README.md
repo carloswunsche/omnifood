@@ -10,38 +10,14 @@
 
 ---
 
-(What is?) Foobar is a Python library for dealing with word pluralization.
+Omnifood is a front-end for a fictional food delivery company also named Omnifood.
 
-## Installation
+[Live Preview following this link.](https://cw-omnifood.netlify.app)
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+## Features
 
-```bash
-pip install foobar
-```
+## Credits
 
-## Usage
+Coded from the ground up by me (Carlos Wunsche).
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+Copyright &copy; Jonas Schmedtmann.
