@@ -22,7 +22,7 @@ Omnifood is a front-end for a fictional food delivery company also named Omnifoo
 
 ## Live preview
 
-[Follow this link](https://cw-omnifood.netlify.app) for a live preview of the website.
+Access the live preview [following this link.](https://cw-omnifood.netlify.app)
 
 ## Screenshots
 
