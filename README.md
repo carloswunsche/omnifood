@@ -12,12 +12,29 @@
 
 Omnifood is a front-end for a fictional food delivery company also named Omnifood.
 
-[Live Preview following this link.](https://cw-omnifood.netlify.app)
-
 ## Features
+
+- 100% HTML and CSS
+- Responsive Design
+- Checked for Accesibility
+
+## Live preview
+
+[Follow this link](https://cw-omnifood.netlify.app) for a live preview of the website.
+
+## Screenshots
+
+![Preview Image](/img/preview.png)
+
+<!-- ![Hero Section](/img/screenshots/screenshot-01.png)
+![Hero Section](/img/screenshots/screenshot-02.png)
+![Hero Section](/img/screenshots/screenshot-03.png)
+![Hero Section](/img/screenshots/screenshot-04.png)
+![Hero Section](/img/screenshots/screenshot-05.png)
+![Hero Section](/img/screenshots/screenshot-06.png) -->
 
 ## Credits
 
-Coded from the ground up by me (Carlos Wunsche).
+- Coded from the ground up by Carlos Wunsche.
 
-Copyright &copy; Jonas Schmedtmann.
+- Copyright &copy; Jonas Schmedtmann.
